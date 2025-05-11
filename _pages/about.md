@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Research Assiatant Professor</a>. University of Ulsan College of medicine <br>
-          <a href='#'>Chief Technology Officer</a>, Signal House Co., Ltd.
+subtitle: <a href='#'>Research Assiatant Professor</a>. University of Ulsan College of medicine <br> <a href='#'>Chief Technology Officer</a>, Signal House Co., Ltd.
 
 profile:
   align: right
